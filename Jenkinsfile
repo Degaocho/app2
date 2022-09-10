@@ -1,2 +1,2 @@
 @Library('Share-library-demo') _
-etechApp 'https://github.com/MosesOrganization/App1.git'
+etechApp 'https://github.com/MosesOrganization/app2.git'
